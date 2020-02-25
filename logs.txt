@@ -1,0 +1,252 @@
+The Learning Rate is : 0.0001
+Training Epoch: 1/200, Training Loss: 72.74860748167772, Training Accuracy: 0.18397264987214657
+Validation Epoch: 1/200, Validation Loss: 80.05101199348694, Validation Accuracy: 0.23670062951411924
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 2/200, Training Loss: 72.1610963562037, Training Accuracy: 0.20851848950166224
+Validation Epoch: 2/200, Validation Loss: 79.60644332641084, Validation Accuracy: 0.23979590751510804
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 3/200, Training Loss: 71.6233935939849, Training Accuracy: 0.22179721314895284
+Validation Epoch: 3/200, Validation Loss: 78.99400298234241, Validation Accuracy: 0.24761509717502653
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 4/200, Training Loss: 71.11595195842663, Training Accuracy: 0.23677045564904997
+Validation Epoch: 4/200, Validation Loss: 78.57428721769946, Validation Accuracy: 0.2602048369231078
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 5/200, Training Loss: 70.76119689075654, Training Accuracy: 0.25083069137883285
+Validation Epoch: 5/200, Validation Loss: 78.25081072932805, Validation Accuracy: 0.2777178012619686
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 6/200, Training Loss: 70.47050578652345, Training Accuracy: 0.2667359395150071
+Validation Epoch: 6/200, Validation Loss: 77.96246393149602, Validation Accuracy: 0.29052549526019117
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 7/200, Training Loss: 70.14431586446271, Training Accuracy: 0.2834316919294531
+Validation Epoch: 7/200, Validation Loss: 77.64180564458547, Validation Accuracy: 0.30276357749653954
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 8/200, Training Loss: 69.82211383491321, Training Accuracy: 0.3024063823657433
+Validation Epoch: 8/200, Validation Loss: 77.34652129249558, Validation Accuracy: 0.317902292689717
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 9/200, Training Loss: 69.55128017537065, Training Accuracy: 0.32316968570292653
+Validation Epoch: 9/200, Validation Loss: 77.12810243155918, Validation Accuracy: 0.3349367279210426
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 10/200, Training Loss: 69.29517471924306, Training Accuracy: 0.34493352248940456
+Validation Epoch: 10/200, Validation Loss: 76.94261467100904, Validation Accuracy: 0.34667862763500495
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 11/200, Training Loss: 69.09866719116751, Training Accuracy: 0.358087362670313
+Validation Epoch: 11/200, Validation Loss: 76.76304347920234, Validation Accuracy: 0.356416446526752
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 12/200, Training Loss: 68.91874060130853, Training Accuracy: 0.37028441851834243
+Validation Epoch: 12/200, Validation Loss: 76.57619700377339, Validation Accuracy: 0.3667897058446737
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 13/200, Training Loss: 68.75512513674475, Training Accuracy: 0.38684079244221864
+Validation Epoch: 13/200, Validation Loss: 76.39840334981207, Validation Accuracy: 0.3841912017711395
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 14/200, Training Loss: 68.6012262446634, Training Accuracy: 0.4043592538824327
+Validation Epoch: 14/200, Validation Loss: 76.27879364148656, Validation Accuracy: 0.3983609515088801
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 15/200, Training Loss: 68.46269589959458, Training Accuracy: 0.4212280824439949
+Validation Epoch: 15/200, Validation Loss: 76.15328068633032, Validation Accuracy: 0.4129331935886693
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 16/200, Training Loss: 68.31144919324277, Training Accuracy: 0.4393696539419754
+Validation Epoch: 16/200, Validation Loss: 76.04660457831838, Validation Accuracy: 0.42467890830560506
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 17/200, Training Loss: 68.18158793591448, Training Accuracy: 0.4552826921147667
+Validation Epoch: 17/200, Validation Loss: 75.90328173948485, Validation Accuracy: 0.4389912011414121
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 18/200, Training Loss: 68.05919047007066, Training Accuracy: 0.4716196345766964
+Validation Epoch: 18/200, Validation Loss: 75.80913700690095, Validation Accuracy: 0.4535411911802134
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 19/200, Training Loss: 67.94245671918429, Training Accuracy: 0.48489487577734436
+Validation Epoch: 19/200, Validation Loss: 75.69577751342459, Validation Accuracy: 0.4669552886500248
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 20/200, Training Loss: 67.82112167962433, Training Accuracy: 0.5002784138754781
+Validation Epoch: 20/200, Validation Loss: 75.5879831648031, Validation Accuracy: 0.4800533510921286
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 21/200, Training Loss: 67.70278470860778, Training Accuracy: 0.5122891235721219
+Validation Epoch: 21/200, Validation Loss: 75.52501853031731, Validation Accuracy: 0.4888472865809956
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 22/200, Training Loss: 67.61466499734193, Training Accuracy: 0.5247110463560796
+Validation Epoch: 22/200, Validation Loss: 75.41377820030068, Validation Accuracy: 0.49824464084479986
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 23/200, Training Loss: 67.53366903939197, Training Accuracy: 0.53459623062769
+Validation Epoch: 23/200, Validation Loss: 75.35079982278094, Validation Accuracy: 0.5103920956173711
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 24/200, Training Loss: 67.45797879188771, Training Accuracy: 0.5460252908206353
+Validation Epoch: 24/200, Validation Loss: 75.28834996854428, Validation Accuracy: 0.5165174363227558
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 25/200, Training Loss: 67.39069648884664, Training Accuracy: 0.5539368034396418
+Validation Epoch: 25/200, Validation Loss: 75.2373035183438, Validation Accuracy: 0.5263965639097066
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 26/200, Training Loss: 67.33076335958998, Training Accuracy: 0.5624227073658035
+Validation Epoch: 26/200, Validation Loss: 75.19433347967073, Validation Accuracy: 0.5359372672429801
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 27/200, Training Loss: 67.27332125312829, Training Accuracy: 0.5716530033089114
+Validation Epoch: 27/200, Validation Loss: 75.1533401769068, Validation Accuracy: 0.5396205795014527
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 28/200, Training Loss: 67.21687130259981, Training Accuracy: 0.5805376823897787
+Validation Epoch: 28/200, Validation Loss: 75.0716485734624, Validation Accuracy: 0.5475748849099461
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 29/200, Training Loss: 70.82266694914686, Training Accuracy: 0.6129805980159624
+Validation Epoch: 29/200, Validation Loss: 75.05158800504061, Validation Accuracy: 0.5510608885554784
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 0.0001
+Training Epoch: 30/200, Training Loss: 70.76980351033986, Training Accuracy: 0.6211817563585871
+Validation Epoch: 30/200, Validation Loss: 75.01824237585859, Validation Accuracy: 0.5567749720363779
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 31/200, Training Loss: 70.69949314812611, Training Accuracy: 0.6304616217253715
+Validation Epoch: 31/200, Validation Loss: 74.92386483987934, Validation Accuracy: 0.5673557701468352
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 32/200, Training Loss: 70.6379604722686, Training Accuracy: 0.6388633486589104
+Validation Epoch: 32/200, Validation Loss: 74.89104467223942, Validation Accuracy: 0.5718100195819041
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 33/200, Training Loss: 70.59198353040293, Training Accuracy: 0.6459175242831748
+Validation Epoch: 33/200, Validation Loss: 74.87267121519939, Validation Accuracy: 0.5759450828368796
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 34/200, Training Loss: 70.54695427288156, Training Accuracy: 0.6537216345432189
+Validation Epoch: 34/200, Validation Loss: 74.87744900330468, Validation Accuracy: 0.5786980528219184
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 35/200, Training Loss: 70.50639883460434, Training Accuracy: 0.6600056877057492
+Validation Epoch: 35/200, Validation Loss: 74.8619522589667, Validation Accuracy: 0.5794153308012858
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 36/200, Training Loss: 70.47123377888848, Training Accuracy: 0.6664689212961178
+Validation Epoch: 36/200, Validation Loss: 74.83258772687283, Validation Accuracy: 0.5865543988056039
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 37/200, Training Loss: 70.4384067650912, Training Accuracy: 0.6726512366938635
+Validation Epoch: 37/200, Validation Loss: 74.81096847005493, Validation Accuracy: 0.5891005418905769
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 38/200, Training Loss: 70.40410293744051, Training Accuracy: 0.679232006168527
+Validation Epoch: 38/200, Validation Loss: 74.80625441889019, Validation Accuracy: 0.590341584667703
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 39/200, Training Loss: 70.36651702109063, Training Accuracy: 0.6862611379144005
+Validation Epoch: 39/200, Validation Loss: 74.78249040020818, Validation Accuracy: 0.5948767022216829
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 40/200, Training Loss: 70.32940812547584, Training Accuracy: 0.6926296564795619
+Validation Epoch: 40/200, Validation Loss: 74.77579652045954, Validation Accuracy: 0.5975229467661093
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 41/200, Training Loss: 70.29264744827198, Training Accuracy: 0.6989920821135265
+Validation Epoch: 41/200, Validation Loss: 74.76827843409818, Validation Accuracy: 0.597006936904204
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 42/200, Training Loss: 70.2637154716406, Training Accuracy: 0.7041742100034557
+Validation Epoch: 42/200, Validation Loss: 74.76235811604023, Validation Accuracy: 0.59993729386016
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 43/100, Training Loss: 70.23595386069556, Training Accuracy: 0.7090292120130602
+Validation Epoch: 43/100, Validation Loss: 74.73672976214377, Validation Accuracy: 0.6038061692381268
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 44/100, Training Loss: 70.209932640183, Training Accuracy: 0.713701825057251
+Validation Epoch: 44/100, Validation Loss: 74.73014611210104, Validation Accuracy: 0.6056761651889132
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 45/100, Training Loss: 70.18146053724475, Training Accuracy: 0.7191854966490513
+Validation Epoch: 45/100, Validation Loss: 74.74427236000902, Validation Accuracy: 0.6072034948939429
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 46/100, Training Loss: 70.15446918422647, Training Accuracy: 0.724409836596762
+Validation Epoch: 46/100, Validation Loss: 74.74019125120428, Validation Accuracy: 0.6101125785150966
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 47/100, Training Loss: 70.12695023861369, Training Accuracy: 0.7302111010610524
+Validation Epoch: 47/100, Validation Loss: 74.72047183032937, Validation Accuracy: 0.6106973580775907
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 48/100, Training Loss: 70.10089513650874, Training Accuracy: 0.7359471027882197
+Validation Epoch: 48/100, Validation Loss: 74.72099394750823, Validation Accuracy: 0.6130659012566064
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 49/100, Training Loss: 70.07166063043836, Training Accuracy: 0.7416110609173531
+Validation Epoch: 49/100, Validation Loss: 74.70546403442675, Validation Accuracy: 0.6142383632917771
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 50/100, Training Loss: 70.04363408641348, Training Accuracy: 0.7471565616688101
+Validation Epoch: 50/100, Validation Loss: 74.7083740079706, Validation Accuracy: 0.6164133729879939
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 51/100, Training Loss: 70.01671865292333, Training Accuracy: 0.752106568363402
+Validation Epoch: 51/100, Validation Loss: 74.70169469521927, Validation Accuracy: 0.6194720304199323
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 52/100, Training Loss: 69.99122354069182, Training Accuracy: 0.7565367031581856
+Validation Epoch: 52/100, Validation Loss: 74.70398167794013, Validation Accuracy: 0.6179722738445139
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 53/100, Training Loss: 69.96749386805865, Training Accuracy: 0.7609154662950599
+Validation Epoch: 53/100, Validation Loss: 74.69983176397653, Validation Accuracy: 0.6196580884656578
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 54/100, Training Loss: 69.94576604983838, Training Accuracy: 0.7653592316274622
+Validation Epoch: 54/100, Validation Loss: 74.69473833673958, Validation Accuracy: 0.6225097031676685
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 55/100, Training Loss: 69.92976723527975, Training Accuracy: 0.768349848280425
+Validation Epoch: 55/100, Validation Loss: 74.68877583203876, Validation Accuracy: 0.6228427842471889
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 56/100, Training Loss: 69.90785660435311, Training Accuracy: 0.7724136004988748
+Validation Epoch: 56/100, Validation Loss: 74.67726238460239, Validation Accuracy: 0.6249095723972353
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 57/100, Training Loss: 69.8871931154893, Training Accuracy: 0.7766199862339755
+Validation Epoch: 57/100, Validation Loss: 74.69077579359089, Validation Accuracy: 0.625457913557094
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 58/100, Training Loss: 69.86878254217228, Training Accuracy: 0.7798472347233589
+Validation Epoch: 58/100, Validation Loss: 74.68886802875815, Validation Accuracy: 0.6249392112420303
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 59/100, Training Loss: 69.84986675073368, Training Accuracy: 0.7839337261161842
+Validation Epoch: 59/100, Validation Loss: 74.69398068625945, Validation Accuracy: 0.6257194477586475
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 60/100, Training Loss: 69.83244444010234, Training Accuracy: 0.7872648651702409
+Validation Epoch: 60/100, Validation Loss: 74.69819502544017, Validation Accuracy: 0.6240889157417983
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 61/100, Training Loss: 69.82055905887267, Training Accuracy: 0.7894368008626358
+Validation Epoch: 61/100, Validation Loss: 74.68797953050601, Validation Accuracy: 0.6243412480787847
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 62/100, Training Loss: 69.80299641044697, Training Accuracy: 0.7928833391803731
+Validation Epoch: 62/100, Validation Loss: 74.70183914822931, Validation Accuracy: 0.6229327412637411
+----------------------------------------------------------------------------------------------
+The Learning Rate is : 5e-05
+Training Epoch: 63/100, Training Loss: 69.78584579700671, Training Accuracy: 0.7963414556128785
+Validation Epoch: 63/100, Validation Loss: 74.69219469294704, Validation Accuracy: 0.6261861729012713
+----------------------------------------------------------------------------------------------
