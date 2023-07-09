@@ -234,19 +234,3 @@ The Learning Rate is : 5e-05
 Training Epoch: 59/100, Training Loss: 69.84986675073368, Training Accuracy: 0.7839337261161842
 Validation Epoch: 59/100, Validation Loss: 74.69398068625945, Validation Accuracy: 0.6257194477586475
 ----------------------------------------------------------------------------------------------
-The Learning Rate is : 5e-05
-Training Epoch: 60/100, Training Loss: 69.83244444010234, Training Accuracy: 0.7872648651702409
-Validation Epoch: 60/100, Validation Loss: 74.69819502544017, Validation Accuracy: 0.6240889157417983
-----------------------------------------------------------------------------------------------
-The Learning Rate is : 5e-05
-Training Epoch: 61/100, Training Loss: 69.82055905887267, Training Accuracy: 0.7894368008626358
-Validation Epoch: 61/100, Validation Loss: 74.68797953050601, Validation Accuracy: 0.6243412480787847
-----------------------------------------------------------------------------------------------
-The Learning Rate is : 5e-05
-Training Epoch: 62/100, Training Loss: 69.80299641044697, Training Accuracy: 0.7928833391803731
-Validation Epoch: 62/100, Validation Loss: 74.70183914822931, Validation Accuracy: 0.6229327412637411
-----------------------------------------------------------------------------------------------
-The Learning Rate is : 5e-05
-Training Epoch: 63/100, Training Loss: 69.78584579700671, Training Accuracy: 0.7963414556128785
-Validation Epoch: 63/100, Validation Loss: 74.69219469294704, Validation Accuracy: 0.6261861729012713
-----------------------------------------------------------------------------------------------

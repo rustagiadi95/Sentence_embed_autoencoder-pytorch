@@ -52,7 +52,7 @@ decoder_optimizer = optim.Adam(decoder.parameters(), lr = lr)
 
 def adjust_learning_rate(optimizer, epoch):
     """Sets the learning rate to the initial LR decayed by 10 every 30 epochs"""
-    new_lr = lr * (0.5 ** (epoch // 50))
+    new_lr = lr * (0.5 ** (epoch // 30))
     for param_group in optimizer.param_groups:
         param_group['lr'] = new_lr
     return new_lr
