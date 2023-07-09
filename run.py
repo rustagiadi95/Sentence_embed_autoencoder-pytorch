@@ -1,3 +1,7 @@
+import torch
+import torch.nn as nn
+import torch.optim as optim
+
 from models import Encoder1, Decoder1, load_pretrained
 from data import dataloader, Data
 import os
@@ -6,9 +10,7 @@ from nltk.translate import bleu
 from tqdm import tqdm
 
 
-import torch
-import torch.nn as nn
-import torch.optim as optim
+
 
 var = {
     'valid' : True,
